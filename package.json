@@ -14,6 +14,9 @@
   "author": "Manoj k",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
+    "bcrypt": "^5.1.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2",
+    "validator": "^13.15.0"
   }
 }
